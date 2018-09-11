@@ -78,7 +78,72 @@ Plan on about 10 minutes to include questions. You will probably want a couple o
 - 1 point - Answer questions to the best of your ability (but be honest if you don't know the answer. Perhaps, someone else will.)
 
 -->
+Critical Review
+Chardee’ Scott
+IDIA640 
+Due: September 11, 2018
 
+Priming and Communication: Social determinants of information use in judgments of life 
+satisfaction 
+
+Experiment #1
+
+Hypothesis - The writer hypothesizes that a participant’s response to a specific question will be integrated into their response to a more general question depending upon whether or not they believe the two belong in the conversation. 
+
+Research Design - Randomized Experimental 
+
+Conditions + Variables- 
+
+Conditions: 180 Freshman and Sophomores selected in the cafeteria and library to participate in a 15 question survey under the pretense of this being apart of a survey research project.
+Subject’s surveys varied regarding the placement for 2 questions (the specific question preceded the general question as another item in the survey, the specific question and the general question were placed in a conversational context, and lastly the general question was presented before the specific question).
+
+The two experimental questions: Specific question: happiness with they're dating lives | General question: happiness with life as a whole
+
+Variables: Dependent Variable: the results hedged upon whether one's response depended on the other.
+
+Findings - When the general question was asked before the specific one the correlation was very small (1.16). When the specific question was asked before the general there was an increase in correlation (0.55) and lastly, when both questions were posed together the correlation decreased (0.26). Even though dating satisfaction had been asked prior it wasn’t used in correlation to overall life satisfaction.
+
+Experiment #2
+
+Hypothesis - The writer hypothesizes that a participant’s response to a specific question will be integrated into their response to a more general question depending upon whether they believe the two belong in the conversation. 
+
+Research Design - Randomized Experimental 
+
+Conditions + Variables - 
+
+Conditions: 180 Freshman and Sophomores selected in the cafeteria and library to participate in a 15 question survey under the pretense of it being about “student issues”.
+
+Subject’s surveys varied regarding the placement for 2 questions (the specific question preceded the general question as another item in the survey, the specific question and the general question were placed in a conversational context, and lastly the general question was presented before the specific question).
+The two experimental questions: Specific question: happiness with they're dating frequency | 
+General question: happiness with life as a whole.
+
+The frequency question wasn’t presented on a scale but open answer format.
+
+Variables: Dependent Variable: the results hedged upon whether one's response depended on the other.
+
+Findings - The correlation between general happiness and their dating frequency was very small (0.12). When the specific question was asked before the general there was an increase in correlation (0.66) and lastly, when both questions were posed together the correlation decreased (0.15). Even though dating satisfaction had been asked prior it wasn’t used in correlation to overall life satisfaction.
+
+My Review:
+
+Does the paper seem significant or not? Why or why not?
+
+In my option, this paper doesn’t seem significant and holds no weight in my thinking after reading. I believe the survey conduct was too problematic. Although the studies referenced seemed legit, the experiments conducted were flawed and thus impacted the creditably of the whole study.
+
+Does the methodology seem sound or suspect? In what sense?
+
+Suspect. I am aware that surveys are a very popular methodology and if done right they can yield pretty accurate information. However, I don't believe this survey was done accurately. Each group of students was under a different belief about what the survey was for. Also, there were two totally different student groups used. I think this would have been a more effective study if they used the same group and presented the second survey to them at a later date to further analyze their thought process. In addition, the scale changed on one of the questions for the second experiment. So both groups essentially had different surveys.
+
+Can you think of confounding variables that the author did not discuss?
+
+The author didn’t mention what the other survey questions were. There is no way of knowing if those questions lead the participants to respond the way that they did. Also, there is no way of truly knowing the participants' mindset when they made a selection based on which question was asked first. For example, if asked the dating question first, how can the surveyors guarantee that the participant included or excluded that facet when asked about the general life question after? 
+
+Does it change your thoughts or has it introduced new ideas to you? In what way?
+
+Strangely enough, it did make think about the answers I have given to others. I tend to be a very detailed person and respond according. Even if the person is privy to the backstory, I still give a refresher when asked a new question about the related topic. If asked a specific question, I will answer and maybe include a little more information than requested. If asked a general question I will include all components I believe fit under that. I believe what the study was trying to prove was that when asked a specific question first the responder will subtract that component when responding about a general question next. However, I don’t believe that to be the case. I even did my own mini-poll to see if others thought like me and I was correct in my own findings. Nonetheless, it did make me give a second thought to my conversations and the information I provide. 
+
+Do you think the study is reproduce-able (like an exact recipe) or that the author left out too many details? What do you think needed more explanation?
+
+No, as mentioned above, the author didn’t include what other survey questions were given to the students. They never specified why they choose this particular market (freshman and sophomore college students). How did they administer the survey? Did they just hand it out and collect it back after their lunch or study? How can we tell that outside influences due to the environment didn’t affect their response? Students weren’t given the survey at the same time and asked to fill them out or were they? There are too many unknown variables to replicate this study. The only thing known for sure were the two questions they choose to focus on. I believe that this study could have been more beneficial is the survey was conducted in a  more controlled environment and the subjects were selected better. For example, if I am in a relationship or currently dating, of course, my response to both questions could be higher. To be fair they should have only selected who were single and our dating but not in a committed relationship. Maybe they did? We will never know.
 <!-- Feel free to delete below this line. -->
 
 <hr>
